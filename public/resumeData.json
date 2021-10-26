@@ -1,0 +1,94 @@
+
+{
+  
+  "main": {
+    "name": "Kaustubh Jadhav",
+    "occupation": "",
+    "description": "By Degree Mechanical Engineer,By Passion Web Developer",
+    "image": "profilepic.jpg",
+    "bio": "I am Kaustubh Jadhav pursuing my B-tech Mechanical engineering Degree from VIT pune,By Degree i am a Mechanical Engineer,By Passion a Web Developer...",
+    "contactmessage": "Get in touch with me!",
+    "email": "kaustubhjadhav36@gmail.com",
+    "phone": "9146767368",
+    "address": {
+      "street":"Jadhav Hospital,Pabal",
+      "city": "Pune.",
+      "state": "Maharashtra",
+      "zip": "412403"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+    
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/kaustubh.jadhav.1297",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/kaustubh-jadhav-07a430175",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://instagram.com/_kj2op_?igshid=1m7l0zymbl6gz",
+        "className": "fa fa-instagram"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Vishwakarma Institue of technology,Pune",
+        "degree": "Bachelor's Degree in Mechanical Engineering",
+	      "graduated": "",
+        "description": ""
+      }
+    ],
+     "work": [
+      {
+        "company": "Still Studying",
+        "title": "Pass out in 2022",
+        "years": "",
+        "description": ""
+      }
+	],	
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      
+      {
+        "name": "Database",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "Java",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Restaurant Menu",
+        "category": "static-webpage",
+        "image": "project1.jpg",
+        "url": "https://epic-northcutt-e6de00.netlify.app/"
+      },
+      {
+        "title": "weatherApi",
+        "category": "static-webpage",
+        "image": "project2.jpg",
+        "url": "https://musing-jang-f4d6b6.netlify.app/"
+      }
+    ]
+  }
+}

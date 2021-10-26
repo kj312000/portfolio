@@ -1,0 +1,35 @@
+.main{
+display: flex;
+justify-content: space-evenly;
+margin-left: 500px;
+margin-top: -50px;
+
+}
+.flex{
+    display: grid;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 20px;
+    
+}
+.cric{
+    margin-left: 40px;
+}
+.project1{
+    display: flex;
+    justify-content: flex-start;
+    padding: 30px;
+
+}
+
+.main_div{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.h1{
+    margin-left: 30%;
+    padding: 30px;
+    font-weight: 800;
+    
+}
