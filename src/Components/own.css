@@ -51,8 +51,9 @@
     }
     .h1{
         font-size: 25px;
-    }
-}
+    }.flex1{
+        font-size: small;
+}}
 .main_div{
     display: flex;
     flex-direction: column;

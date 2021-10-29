@@ -77,19 +77,19 @@ const Resume = ({ data }) => {
           <div className="main">
           <div className="flex">
                  <SportsCricketIcon/>
-                 <h4>Cricket</h4>
+                 <h4 className="flex1">Cricket</h4>
           </div>   
           <div className="flex">
           <SportsSoccerIcon/>
-                 <h4>Football</h4>
+                 <h4 className="flex1">Football</h4>
           </div>
           <div className="flex">
           <LaptopMacIcon/>
-                 <h4>Coding</h4>
+                 <h4 className="flex1">Coding</h4>
           </div>
           <div className="flex">
           <HikingIcon/>
-                 <h4>Trekking</h4>
+                 <h4 className="flex1">Trekking</h4>
           </div>
           
         </div>
