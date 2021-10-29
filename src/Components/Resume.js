@@ -69,28 +69,28 @@ const Resume = ({ data }) => {
         <div className="nine columns main-col">{work}</div>
       </div>
       <div className="row work">
-        <div className="three columns header-col">
-          <h1>
-            <span>Interests</span>
+        <div>
+          <h1  className="interest">
+            <span >Interest</span>
+          </h1>
+          </div>
           <div className="main">
           <div className="flex">
-                 <SportsCricketIcon className="cric"/>
+                 <SportsCricketIcon/>
                  <h4>Cricket</h4>
           </div>   
           <div className="flex">
-          <SportsSoccerIcon className="cric"/>
+          <SportsSoccerIcon/>
                  <h4>Football</h4>
           </div>
           <div className="flex">
-          <LaptopMacIcon className="cric"/>
+          <LaptopMacIcon/>
                  <h4>Coding</h4>
           </div>
           <div className="flex">
-          <HikingIcon className="cric"/>
+          <HikingIcon/>
                  <h4>Trekking</h4>
           </div>
-          </div>
-            </h1> 
           
         </div>
         </div>
