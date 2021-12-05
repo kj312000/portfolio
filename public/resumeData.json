@@ -88,6 +88,24 @@
         "category": "static-webpage",
         "image": "project2.jpg",
         "url": "https://musing-jang-f4d6b6.netlify.app/"
+      },
+      {
+        "title": "Youtube-Clone",
+        "category": "static-webpage",
+        "image": "project3.jpg",
+        "url": "https://wonderful-fermi-2ff93d.netlify.app"
+      },
+      {
+        "title": "E-commerce",
+        "category": "static-webpage",
+        "image": "project4.jpg",
+        "url": "https://sleepy-poincare-1a3dd4.netlify.app"
+      },
+      {
+        "title": "Calculator",
+        "category": "static-webpage",
+        "image": "project5.jpg",
+        "url": "https://lucid-aryabhata-027073.netlify.app"
       }
     ]
   }

@@ -23,11 +23,14 @@
     margin-left: 40px;
 }
 .project1{
+    height: 140px;
+    width: 140px;
+}
+.self{
     display: flex;
-    align-self: center;
     justify-content: space-evenly;
-    padding: 30px;
-
+    align-items: center;
+    margin: 50px;
 }
 .design{
     display: flex;
@@ -40,10 +43,21 @@
         align-items: center;
         justify-content: space-around;
     }
+    .self{
+        display: flex;
+        flex-direction: column;
+        margin: 10px;
+        justify-content: space-evenly;
+    }
     .row-work{
         flex-direction: column;
         justify-content: space-around;
         align-items: center;
+    }
+    .project1{
+        height:100px;
+        width: 100px;
+        margin: 20px;
     }
     .main{
         margin-top: 30px;
